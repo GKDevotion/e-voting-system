@@ -11,6 +11,7 @@
       <li class=""><a href="ballot.php"><i class="fa fa-file-text"></i> <span>Manage Ballot</span></a></li>
       <li class="header">SETTINGS</li>
       <li class=""><a href="#config" data-toggle="modal"><i class="fa fa-cog"></i> <span>Set Election Title</span></a></li>
+      <li class=""><a href="permission.php"><i class="fa fa-file-text"></i> <span>Permission</span></a></li>
     </ul>
   </section>
 </aside>
