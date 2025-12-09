@@ -1,5 +1,5 @@
 <?php
-include 'config.php'; // database connection file
+include 'include/conn.php'; // database connection file
 
 header('Content-Type: application/json');
 

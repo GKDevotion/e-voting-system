@@ -79,7 +79,7 @@ include 'includes/header.php';
     </div>
 
     <?php include 'includes/scripts.php'; ?>
-    <script src="assets\permission.js"></script>
+    <script src="assets/permission.js"></script>
 </body>
 
 </html>
